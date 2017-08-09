@@ -4,3 +4,6 @@ https://codebeer.ru/opredelit-kod-simvola/
 по svg
 <br />
 https://habrahabr.ru/post/260645/
+<br />
+по js dom
+https://learn.javascript.ru/searching-elements-dom
